@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "description": "",
-  "author": "",
+  "name": "example-react-app",
+  "description": "An example react application",
+  "author": "William Lin",
   "private": true,
   "version": "0.1.0",
   "license": "MIT",
